@@ -1,0 +1,5423 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Azbakeyah",
+        "Area_ar": "الازبكية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.33007,
+          30.006923
+        ]
+      },
+      "properties": {
+        "Area_en": "Al Basatin",
+        "Area_ar": "البساتين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.292504,
+          29.773923
+        ]
+      },
+      "properties": {
+        "Area_en": "Tebin",
+        "Area_ar": "التبين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.251793,
+          30.028081
+        ]
+      },
+      "properties": {
+        "Area_en": "El-Khalifa",
+        "Area_ar": "الخليفة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El darrasa",
+        "Area_ar": "الدراسة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Aldarb Alahmar",
+        "Area_ar": "الدرب الاحمر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.262636,
+          30.098469
+        ]
+      },
+      "properties": {
+        "Area_en": "Zawya al-Hamra",
+        "Area_ar": "الزاوية الحمراء"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El-Zaytoun",
+        "Area_ar": "الزيتون"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.237528,
+          30.091797
+        ]
+      },
+      "properties": {
+        "Area_en": "Sahel",
+        "Area_ar": "الساحل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.721218,
+          29.589947
+        ]
+      },
+      "properties": {
+        "Area_en": "El Salam",
+        "Area_ar": "السلام"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.409187,
+          30.171936
+        ]
+      },
+      "properties": {
+        "Area_en": "Sayeda Zeinab",
+        "Area_ar": "السيدة زينب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Sharabeya",
+        "Area_ar": "الشرابية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.606878,
+          30.119528
+        ]
+      },
+      "properties": {
+        "Area_en": "Shorouk",
+        "Area_ar": "مدينة الشروق"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Daher",
+        "Area_ar": "الظاهر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.249298,
+          30.052764
+        ]
+      },
+      "properties": {
+        "Area_en": "Ataba",
+        "Area_ar": "العتبة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.475683,
+          30.027769
+        ]
+      },
+      "properties": {
+        "Area_en": "New Cairo",
+        "Area_ar": "القاهرة الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.335766,
+          30.152082
+        ]
+      },
+      "properties": {
+        "Area_en": "El Marg",
+        "Area_ar": "المرج"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.318743,
+          30.136627
+        ]
+      },
+      "properties": {
+        "Area_en": "Ezbet el Nakhl",
+        "Area_ar": "عزبة النخل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.224455,
+          31.209292
+        ]
+      },
+      "properties": {
+        "Area_en": "Matareya",
+        "Area_ar": "المطرية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.263055,
+          29.960331
+        ]
+      },
+      "properties": {
+        "Area_en": "Maadi",
+        "Area_ar": "المعادى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.291284,
+          29.909128
+        ]
+      },
+      "properties": {
+        "Area_en": "Maasara",
+        "Area_ar": "المعصرة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.280443,
+          30.016347
+        ]
+      },
+      "properties": {
+        "Area_en": "Mokattam",
+        "Area_ar": "المقطم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.225756,
+          30.021422
+        ]
+      },
+      "properties": {
+        "Area_en": "Manyal",
+        "Area_ar": "المنيل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.253695,
+          30.050353
+        ]
+      },
+      "properties": {
+        "Area_en": "Mosky",
+        "Area_ar": "الموسكى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.262429,
+          26.120924
+        ]
+      },
+      "properties": {
+        "Area_en": "Nozha",
+        "Area_ar": "النزهة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.276079,
+          30.066818
+        ]
+      },
+      "properties": {
+        "Area_en": "Waily",
+        "Area_ar": "الوايلى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Bab al-Shereia",
+        "Area_ar": "باب الشعرية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Bolaq",
+        "Area_ar": "بولاق"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.231188,
+          30.034715
+        ]
+      },
+      "properties": {
+        "Area_en": "Garden City",
+        "Area_ar": "جاردن سيتى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Hadayek El-Kobba",
+        "Area_ar": "حدائق القبة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.333333,
+          29.85
+        ]
+      },
+      "properties": {
+        "Area_en": "Helwan",
+        "Area_ar": "حلوان"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.246721,
+          29.986186
+        ]
+      },
+      "properties": {
+        "Area_en": "Dar Al Salam",
+        "Area_ar": "دار السلام"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.242218,
+          30.128599
+        ]
+      },
+      "properties": {
+        "Area_en": "Shubra",
+        "Area_ar": "شبرا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.280726,
+          29.934593
+        ]
+      },
+      "properties": {
+        "Area_en": "Tura",
+        "Area_ar": "طره"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.544371,
+          31.146272
+        ]
+      },
+      "properties": {
+        "Area_en": "Abdeen",
+        "Area_ar": "عابدين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Abaseya",
+        "Area_ar": "عباسية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.316749,
+          30.130476
+        ]
+      },
+      "properties": {
+        "Area_en": "Ain Shams",
+        "Area_ar": "عين شمس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.342205,
+          30.052118
+        ]
+      },
+      "properties": {
+        "Area_en": "Nasr City",
+        "Area_ar": "مدينة نصر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69256,
+          30.118097
+        ]
+      },
+      "properties": {
+        "Area_en": "New Heliopolis",
+        "Area_ar": "مصر الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.229366,
+          30.007201
+        ]
+      },
+      "properties": {
+        "Area_en": "Masr Al Qadima",
+        "Area_ar": "مصر القديمة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Mansheya Nasir",
+        "Area_ar": "منشية ناصر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.703264,
+          30.572634
+        ]
+      },
+      "properties": {
+        "Area_en": "Badr City",
+        "Area_ar": "مدينة بدر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.465686,
+          30.228822
+        ]
+      },
+      "properties": {
+        "Area_en": "Obour City",
+        "Area_ar": "مدينة العبور"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Cairo Downtown",
+        "Area_ar": "وسط البلد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.934665,
+          29.928955
+        ]
+      },
+      "properties": {
+        "Area_en": "Zamalek",
+        "Area_ar": "الزمالك"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Kasr El Nile",
+        "Area_ar": "قصر النيل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.488994,
+          30.063584
+        ]
+      },
+      "properties": {
+        "Area_en": "Rehab",
+        "Area_ar": "الرحاب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.404629,
+          29.992101
+        ]
+      },
+      "properties": {
+        "Area_en": "Katameya",
+        "Area_ar": "القطامية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Madinty",
+        "Area_ar": "مدينتي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Rod Alfarag",
+        "Area_ar": "روض الفرج"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.366931,
+          27.921786
+        ]
+      },
+      "properties": {
+        "Area_en": "Sheraton",
+        "Area_ar": "شيراتون"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.864162,
+          31.18053
+        ]
+      },
+      "properties": {
+        "Area_en": "El-Gamaleya",
+        "Area_ar": "الجمالية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.739278,
+          30.315449
+        ]
+      },
+      "properties": {
+        "Area_en": "10th of Ramadan City",
+        "Area_ar": "العاشر من رمضان"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Helmeyat Alzaytoun",
+        "Area_ar": "الحلمية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.370072,
+          30.124758
+        ]
+      },
+      "properties": {
+        "Area_en": "New Nozha",
+        "Area_ar": "النزهة الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.754946,
+          30.023829
+        ]
+      },
+      "properties": {
+        "Area_en": "Capital New",
+        "Area_ar": "العاصمة الإدارية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.211806,
+          29.987075
+        ]
+      },
+      "properties": {
+        "Area_en": "Giza",
+        "Area_ar": "الجيزة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.819869,
+          29.81055
+        ]
+      },
+      "properties": {
+        "Area_en": "Sixth of October",
+        "Area_ar": "السادس من أكتوبر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.979751,
+          30.045331
+        ]
+      },
+      "properties": {
+        "Area_en": "Cheikh Zayed",
+        "Area_ar": "الشيخ زايد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Hawamdiyah",
+        "Area_ar": "الحوامدية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.277442,
+          29.853671
+        ]
+      },
+      "properties": {
+        "Area_en": "Al Badrasheen",
+        "Area_ar": "البدرشين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.416232,
+          30.163427
+        ]
+      },
+      "properties": {
+        "Area_en": "Saf",
+        "Area_ar": "الصف"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.250156,
+          29.414232
+        ]
+      },
+      "properties": {
+        "Area_en": "Atfih",
+        "Area_ar": "أطفيح"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.251251,
+          29.612105
+        ]
+      },
+      "properties": {
+        "Area_en": "Al Ayat",
+        "Area_ar": "العياط"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al-Bawaiti",
+        "Area_ar": "الباويطي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "ManshiyetAl Qanater",
+        "Area_ar": "منشأة القناطر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Oaseem",
+        "Area_ar": "أوسيم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1156,
+          30.031423
+        ]
+      },
+      "properties": {
+        "Area_en": "Kerdasa",
+        "Area_ar": "كرداسة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "69",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Abu Nomros",
+        "Area_ar": "أبو النمرس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Kafr Ghati",
+        "Area_ar": "كفر غطاطي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Manshiyet Al Bakari",
+        "Area_ar": "منشأة البكاري"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.212556,
+          30.038895
+        ]
+      },
+      "properties": {
+        "Area_en": "Dokki",
+        "Area_ar": "الدقى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.212728,
+          30.054944
+        ]
+      },
+      "properties": {
+        "Area_en": "Agouza",
+        "Area_ar": "العجوزة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.220947,
+          29.850964
+        ]
+      },
+      "properties": {
+        "Area_en": "Haram",
+        "Area_ar": "الهرم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.22873,
+          30.112985
+        ]
+      },
+      "properties": {
+        "Area_en": "Warraq",
+        "Area_ar": "الوراق"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.215927,
+          30.088512
+        ]
+      },
+      "properties": {
+        "Area_en": "Imbaba",
+        "Area_ar": "امبابة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.191161,
+          30.046518
+        ]
+      },
+      "properties": {
+        "Area_en": "Boulaq Dakrour",
+        "Area_ar": "بولاق الدكرور"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "78",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Wahat Al Baharia",
+        "Area_ar": "الواحات البحرية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.194981,
+          29.993333
+        ]
+      },
+      "properties": {
+        "Area_en": "Omraneya",
+        "Area_ar": "العمرانية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.212315,
+          29.981108
+        ]
+      },
+      "properties": {
+        "Area_en": "Moneeb",
+        "Area_ar": "المنيب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Bin Alsarayat",
+        "Area_ar": "بين السرايات"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.213814,
+          30.072909
+        ]
+      },
+      "properties": {
+        "Area_en": "Kit Kat",
+        "Area_ar": "الكيت كات"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.621606,
+          31.017911
+        ]
+      },
+      "properties": {
+        "Area_en": "Mohandessin",
+        "Area_ar": "المهندسين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.543083,
+          31.14614
+        ]
+      },
+      "properties": {
+        "Area_en": "Faisal",
+        "Area_ar": "فيصل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.075709,
+          30.032319
+        ]
+      },
+      "properties": {
+        "Area_en": "Abu Rawash",
+        "Area_ar": "أبو رواش"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.097327,
+          29.96999
+        ]
+      },
+      "properties": {
+        "Area_en": "Hadayek Alahram",
+        "Area_ar": "حدائق الاهرام"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "87",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.170533,
+          29.961478
+        ]
+      },
+      "properties": {
+        "Area_en": "Haraneya",
+        "Area_ar": "الحرانية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9945,
+          30.027884
+        ]
+      },
+      "properties": {
+        "Area_en": "Hadayek October",
+        "Area_ar": "حدائق اكتوبر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Saft Allaban",
+        "Area_ar": "صفط اللبن"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.018529,
+          30.071941
+        ]
+      },
+      "properties": {
+        "Area_en": "Smart Village",
+        "Area_ar": "القرية الذكية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Ard Ellwaa",
+        "Area_ar": "ارض اللواء"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.064198,
+          31.320302
+        ]
+      },
+      "properties": {
+        "Area_en": "Abu Qir",
+        "Area_ar": "أبو قير"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "93",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Ibrahimeyah",
+        "Area_ar": "الابراهيمية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "94",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.906251,
+          31.203971
+        ]
+      },
+      "properties": {
+        "Area_en": "Azarita",
+        "Area_ar": "الأزاريطة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.880023,
+          31.210002
+        ]
+      },
+      "properties": {
+        "Area_en": "Anfoushi",
+        "Area_ar": "الانفوشى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.803887,
+          31.117596
+        ]
+      },
+      "properties": {
+        "Area_en": "Dekheila",
+        "Area_ar": "الدخيلة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Soyof",
+        "Area_ar": "السيوف"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Ameria",
+        "Area_ar": "العامرية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "99",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Labban",
+        "Area_ar": "اللبان"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.875219,
+          31.175865
+        ]
+      },
+      "properties": {
+        "Area_en": "Al Mafrouza",
+        "Area_ar": "المفروزة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Montaza",
+        "Area_ar": "المنتزه"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.515696,
+          30.58987
+        ]
+      },
+      "properties": {
+        "Area_en": "Mansheya",
+        "Area_ar": "المنشية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Naseria",
+        "Area_ar": "الناصرية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Ambrozo",
+        "Area_ar": "امبروزو"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.23257,
+          30.046253
+        ]
+      },
+      "properties": {
+        "Area_en": "Bab Sharq",
+        "Area_ar": "باب شرق"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Bourj Alarab",
+        "Area_ar": "برج العرب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.949826,
+          31.234566
+        ]
+      },
+      "properties": {
+        "Area_en": "Stanley",
+        "Area_ar": "ستانلى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.967035,
+          31.210762
+        ]
+      },
+      "properties": {
+        "Area_en": "Smouha",
+        "Area_ar": "سموحة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.976682,
+          31.252559
+        ]
+      },
+      "properties": {
+        "Area_en": "Sidi Bishr",
+        "Area_ar": "سيدى بشر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Shads",
+        "Area_ar": "شدس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "111",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Gheet Alenab",
+        "Area_ar": "غيط العنب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.956822,
+          31.235336
+        ]
+      },
+      "properties": {
+        "Area_en": "Fleming",
+        "Area_ar": "فلمينج"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "113",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.752583,
+          30.979287
+        ]
+      },
+      "properties": {
+        "Area_en": "Victoria",
+        "Area_ar": "فيكتوريا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Camp Shizar",
+        "Area_ar": "كامب شيزار"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Karmooz",
+        "Area_ar": "كرموز"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Mahta Alraml",
+        "Area_ar": "محطة الرمل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Mina El-Basal",
+        "Area_ar": "ميناالبصل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "118",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.010987,
+          31.169962
+        ]
+      },
+      "properties": {
+        "Area_en": "Asafra",
+        "Area_ar": "العصافرة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.806664,
+          28.499169
+        ]
+      },
+      "properties": {
+        "Area_en": "Agamy",
+        "Area_ar": "العجمي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "120",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.968569,
+          31.233757
+        ]
+      },
+      "properties": {
+        "Area_en": "Bakos",
+        "Area_ar": "بكوس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Boulkly",
+        "Area_ar": "بولكلي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.148395,
+          30.820408
+        ]
+      },
+      "properties": {
+        "Area_en": "Cleopatra",
+        "Area_ar": "كليوباترا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "123",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Glim",
+        "Area_ar": "جليم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "124",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Mamurah",
+        "Area_ar": "المعمورة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.562032,
+          31.21421
+        ]
+      },
+      "properties": {
+        "Area_en": "Al Mandara",
+        "Area_ar": "المندرة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.919745,
+          31.19066
+        ]
+      },
+      "properties": {
+        "Area_en": "Moharam Bek",
+        "Area_ar": "محرم بك"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "127",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.911677,
+          31.209457
+        ]
+      },
+      "properties": {
+        "Area_en": "Elshatby",
+        "Area_ar": "الشاطبي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "128",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.937394,
+          31.223549
+        ]
+      },
+      "properties": {
+        "Area_en": "Sidi Gaber",
+        "Area_ar": "سيدي جابر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "129",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "North Coast/sahel",
+        "Area_ar": "الساحل الشمالي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Alhadra",
+        "Area_ar": "الحضرة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Alattarin",
+        "Area_ar": "العطارين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.631555,
+          31.021704
+        ]
+      },
+      "properties": {
+        "Area_en": "Sidi Kerir",
+        "Area_ar": "سيدي كرير"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Elgomrok",
+        "Area_ar": "الجمرك"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Max",
+        "Area_ar": "المكس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "135",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.848868,
+          27.243635
+        ]
+      },
+      "properties": {
+        "Area_en": "Marina",
+        "Area_ar": "مارينا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "136",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.358178,
+          31.040754
+        ]
+      },
+      "properties": {
+        "Area_en": "Mansoura",
+        "Area_ar": "المنصورة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "137",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.373161,
+          31.052225
+        ]
+      },
+      "properties": {
+        "Area_en": "Talkha",
+        "Area_ar": "طلخا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Mitt Ghamr",
+        "Area_ar": "ميت غمر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.594959,
+          31.087571
+        ]
+      },
+      "properties": {
+        "Area_en": "Dekernes",
+        "Area_ar": "دكرنس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.290377,
+          30.941985
+        ]
+      },
+      "properties": {
+        "Area_en": "Aga",
+        "Area_ar": "أجا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "141",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Menia El Nasr",
+        "Area_ar": "منية النصر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "142",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Sinbillawin",
+        "Area_ar": "السنبلاوين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.766136,
+          31.167862
+        ]
+      },
+      "properties": {
+        "Area_en": "El Kurdi",
+        "Area_ar": "الكردي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Bani Ubaid",
+        "Area_ar": "بني عبيد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "145",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.936453,
+          31.159401
+        ]
+      },
+      "properties": {
+        "Area_en": "Al Manzala",
+        "Area_ar": "المنزلة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "tami al'amdid",
+        "Area_ar": "تمي الأمديد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "aljamalia",
+        "Area_ar": "الجمالية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "148",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.351687,
+          31.217029
+        ]
+      },
+      "properties": {
+        "Area_en": "Sherbin",
+        "Area_ar": "شربين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.297655,
+          30.126067
+        ]
+      },
+      "properties": {
+        "Area_en": "Mataria",
+        "Area_ar": "المطرية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.278145,
+          30.172476
+        ]
+      },
+      "properties": {
+        "Area_en": "Belqas",
+        "Area_ar": "بلقاس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.800991,
+          31.168576
+        ]
+      },
+      "properties": {
+        "Area_en": "Meet Salsil",
+        "Area_ar": "ميت سلسيل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.484986,
+          31.451836
+        ]
+      },
+      "properties": {
+        "Area_en": "Gamasa",
+        "Area_ar": "جمصة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Mahalat Damana",
+        "Area_ar": "محلة دمنة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Nabroh",
+        "Area_ar": "نبروه"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.830706,
+          27.222556
+        ]
+      },
+      "properties": {
+        "Area_en": "Hurghada",
+        "Area_ar": "الغردقة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.054228,
+          28.347004
+        ]
+      },
+      "properties": {
+        "Area_en": "Ras Ghareb",
+        "Area_ar": "رأس غارب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.938382,
+          26.763333
+        ]
+      },
+      "properties": {
+        "Area_en": "Safaga",
+        "Area_ar": "سفاجا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Qusiar",
+        "Area_ar": "القصير"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.893817,
+          25.069992
+        ]
+      },
+      "properties": {
+        "Area_en": "Marsa Alam",
+        "Area_ar": "مرسى علم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.563942,
+          23.106183
+        ]
+      },
+      "properties": {
+        "Area_en": "Shalatin",
+        "Area_ar": "الشلاتين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "161",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.701814,
+          22.650389
+        ]
+      },
+      "properties": {
+        "Area_en": "Halaib",
+        "Area_ar": "حلايب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "162",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Aldahar",
+        "Area_ar": "الدهار"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "163",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.471062,
+          31.037498
+        ]
+      },
+      "properties": {
+        "Area_en": "Damanhour",
+        "Area_ar": "دمنهور"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "164",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.193996,
+          31.129898
+        ]
+      },
+      "properties": {
+        "Area_en": "Kafr El Dawar",
+        "Area_ar": "كفر الدوار"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.416389,
+          31.404444
+        ]
+      },
+      "properties": {
+        "Area_en": "Rashid",
+        "Area_ar": "رشيد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Edco",
+        "Area_ar": "إدكو"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.175639,
+          30.907935
+        ]
+      },
+      "properties": {
+        "Area_en": "Abu al-Matamir",
+        "Area_ar": "أبو المطامير"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Abu Homs",
+        "Area_ar": "أبو حمص"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Delengat",
+        "Area_ar": "الدلنجات"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.370953,
+          31.023912
+        ]
+      },
+      "properties": {
+        "Area_en": "Mahmoudiyah",
+        "Area_ar": "المحمودية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "171",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.641111,
+          31.119167
+        ]
+      },
+      "properties": {
+        "Area_en": "Rahmaniyah",
+        "Area_ar": "الرحمانية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "172",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Itai Baroud",
+        "Area_ar": "إيتاي البارود"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "173",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.296562,
+          30.909694
+        ]
+      },
+      "properties": {
+        "Area_en": "Housh Eissa",
+        "Area_ar": "حوش عيسي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "174",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Shubrakhit",
+        "Area_ar": "شبراخيت"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.700348,
+          30.758915
+        ]
+      },
+      "properties": {
+        "Area_en": "Kom Hamada",
+        "Area_ar": "كوم حمادة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.742824,
+          30.142806
+        ]
+      },
+      "properties": {
+        "Area_en": "Badr",
+        "Area_ar": "بدر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.348223,
+          30.375178
+        ]
+      },
+      "properties": {
+        "Area_en": "Wadi Natrun",
+        "Area_ar": "وادى النطرون"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "New Nubaria",
+        "Area_ar": "النوبارية الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Alnoubareya",
+        "Area_ar": "النوبارية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.620104,
+          29.340737
+        ]
+      },
+      "properties": {
+        "Area_en": "Fayoum",
+        "Area_ar": "الفيوم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Fayoum El Gedida",
+        "Area_ar": "الفيوم الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.963532,
+          29.480178
+        ]
+      },
+      "properties": {
+        "Area_en": "Tamiya",
+        "Area_ar": "طامية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Snores",
+        "Area_ar": "سنورس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Etsa",
+        "Area_ar": "إطسا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Epschway",
+        "Area_ar": "إبشواي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "186",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Yusuf El Sediaq",
+        "Area_ar": "يوسف الصديق"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "187",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Hadqa",
+        "Area_ar": "الحادقة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.800202,
+          29.24051
+        ]
+      },
+      "properties": {
+        "Area_en": "Atsa",
+        "Area_ar": "اطسا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Algamaa",
+        "Area_ar": "الجامعة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.882566,
+          31.21019
+        ]
+      },
+      "properties": {
+        "Area_en": "Sayala",
+        "Area_ar": "السيالة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.998254,
+          30.783367
+        ]
+      },
+      "properties": {
+        "Area_en": "Tanta",
+        "Area_ar": "طنطا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Mahalla Al Kobra",
+        "Area_ar": "المحلة الكبرى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Kafr El Zayat",
+        "Area_ar": "كفر الزيات"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.250863,
+          30.733933
+        ]
+      },
+      "properties": {
+        "Area_en": "Zefta",
+        "Area_ar": "زفتى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "195",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.122468,
+          30.730549
+        ]
+      },
+      "properties": {
+        "Area_en": "El Santa",
+        "Area_ar": "السنطة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Qutour",
+        "Area_ar": "قطور"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Basion",
+        "Area_ar": "بسيون"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "198",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.251626,
+          30.956029
+        ]
+      },
+      "properties": {
+        "Area_en": "Samannoud",
+        "Area_ar": "سمنود"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "199",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.277082,
+          30.604377
+        ]
+      },
+      "properties": {
+        "Area_en": "Ismailia",
+        "Area_ar": "الإسماعيلية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "200",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.300777,
+          30.328481
+        ]
+      },
+      "properties": {
+        "Area_en": "Fayed",
+        "Area_ar": "فايد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.397126,
+          30.866685
+        ]
+      },
+      "properties": {
+        "Area_en": "Qantara Sharq",
+        "Area_ar": "القنطرة شرق"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.309605,
+          30.855094
+        ]
+      },
+      "properties": {
+        "Area_en": "Qantara Gharb",
+        "Area_ar": "القنطرة غرب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Tal El Kabier",
+        "Area_ar": "التل الكبير"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "204",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Abu Sawir",
+        "Area_ar": "أبو صوير"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Kasasien El Gedida",
+        "Area_ar": "القصاصين الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Nefesha",
+        "Area_ar": "نفيشة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.999003,
+          30.048036
+        ]
+      },
+      "properties": {
+        "Area_en": "Sheikh Zayed",
+        "Area_ar": "الشيخ زايد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Shbeen El Koom",
+        "Area_ar": "شبين الكوم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "209",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.507572,
+          30.365252
+        ]
+      },
+      "properties": {
+        "Area_en": "Sadat City",
+        "Area_ar": "مدينة السادات"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "210",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.938879,
+          30.462691
+        ]
+      },
+      "properties": {
+        "Area_en": "Menouf",
+        "Area_ar": "منوف"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Sars El-Layan",
+        "Area_ar": "سرس الليان"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "212",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Ashmon",
+        "Area_ar": "أشمون"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Bagor",
+        "Area_ar": "الباجور"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "214",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.170616,
+          30.528337
+        ]
+      },
+      "properties": {
+        "Area_en": "Quesna",
+        "Area_ar": "قويسنا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Berkat El Saba",
+        "Area_ar": "بركة السبع"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.943393,
+          30.68002
+        ]
+      },
+      "properties": {
+        "Area_en": "Tala",
+        "Area_ar": "تلا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.500417,
+          30.003182
+        ]
+      },
+      "properties": {
+        "Area_en": "Al Shohada",
+        "Area_ar": "الشهداء"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "218",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.912374,
+          28.21254
+        ]
+      },
+      "properties": {
+        "Area_en": "Minya",
+        "Area_ar": "المنيا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "219",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Minya El Gedida",
+        "Area_ar": "المنيا الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "220",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Adwa",
+        "Area_ar": "العدوة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Magagha",
+        "Area_ar": "مغاغة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.792569,
+          28.499322
+        ]
+      },
+      "properties": {
+        "Area_en": "Bani Mazar",
+        "Area_ar": "بني مزار"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Mattay",
+        "Area_ar": "مطاي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "224",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.710382,
+          28.310957
+        ]
+      },
+      "properties": {
+        "Area_en": "Samalut",
+        "Area_ar": "سمالوط"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "225",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Madinat El Fekria",
+        "Area_ar": "المدينة الفكرية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "226",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Meloy",
+        "Area_ar": "ملوي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.851751,
+          27.6418
+        ]
+      },
+      "properties": {
+        "Area_en": "Deir Mawas",
+        "Area_ar": "دير مواس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "228",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.837711,
+          27.930588
+        ]
+      },
+      "properties": {
+        "Area_en": "Abu Qurqas",
+        "Area_ar": "ابو قرقاص"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "229",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Ard Sultan",
+        "Area_ar": "أرض سلطان"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "230",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.184063,
+          30.462497
+        ]
+      },
+      "properties": {
+        "Area_en": "Banha",
+        "Area_ar": "بنها"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.206436,
+          30.178875
+        ]
+      },
+      "properties": {
+        "Area_en": "Qalyub",
+        "Area_ar": "قليوب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Shubra Al Khaimah",
+        "Area_ar": "شبرا الخيمة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Qanater Charity",
+        "Area_ar": "القناطر الخيرية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "234",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.204715,
+          23.61666
+        ]
+      },
+      "properties": {
+        "Area_en": "Khanka",
+        "Area_ar": "الخانكة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "235",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.259443,
+          30.54783
+        ]
+      },
+      "properties": {
+        "Area_en": "Kafr Shukr",
+        "Area_ar": "كفر شكر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "236",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.200979,
+          30.354051
+        ]
+      },
+      "properties": {
+        "Area_en": "Tukh",
+        "Area_ar": "طوخ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "237",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.206051,
+          30.280632
+        ]
+      },
+      "properties": {
+        "Area_en": "Qaha",
+        "Area_ar": "قها"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.465686,
+          30.228822
+        ]
+      },
+      "properties": {
+        "Area_en": "Obour",
+        "Area_ar": "العبور"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "239",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.314453,
+          30.158434
+        ]
+      },
+      "properties": {
+        "Area_en": "Khosous",
+        "Area_ar": "الخصوص"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "240",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.313063,
+          30.311425
+        ]
+      },
+      "properties": {
+        "Area_en": "Shibin Al Qanater",
+        "Area_ar": "شبين القناطر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "241",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.299536,
+          30.142961
+        ]
+      },
+      "properties": {
+        "Area_en": "Mostorod",
+        "Area_ar": "مسطرد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "242",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.585942,
+          25.469431
+        ]
+      },
+      "properties": {
+        "Area_en": "El Kharga",
+        "Area_ar": "الخارجة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "244",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.986589,
+          25.489468
+        ]
+      },
+      "properties": {
+        "Area_en": "Mout",
+        "Area_ar": "موط"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.968393,
+          27.064173
+        ]
+      },
+      "properties": {
+        "Area_en": "Farafra",
+        "Area_ar": "الفرافرة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "246",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.262811,
+          25.561505
+        ]
+      },
+      "properties": {
+        "Area_en": "Balat",
+        "Area_ar": "بلاط"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "247",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.25816,
+          25.512062
+        ]
+      },
+      "properties": {
+        "Area_en": "Dakhla",
+        "Area_ar": "الداخلة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "248",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.537086,
+          29.974498
+        ]
+      },
+      "properties": {
+        "Area_en": "Suez",
+        "Area_ar": "السويس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "249",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Alganayen",
+        "Area_ar": "الجناين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "250",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.403926,
+          29.745381
+        ]
+      },
+      "properties": {
+        "Area_en": "Ataqah",
+        "Area_ar": "عتاقة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "251",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.277835,
+          29.640164
+        ]
+      },
+      "properties": {
+        "Area_en": "Ain Sokhna",
+        "Area_ar": "العين السخنة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Faysal",
+        "Area_ar": "فيصل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "253",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.897306,
+          24.091071
+        ]
+      },
+      "properties": {
+        "Area_en": "Aswan",
+        "Area_ar": "أسوان"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Aswan El Gedida",
+        "Area_ar": "أسوان الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "255",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Drau",
+        "Area_ar": "دراو"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "256",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.949523,
+          24.476248
+        ]
+      },
+      "properties": {
+        "Area_en": "Kom Ombo",
+        "Area_ar": "كوم أمبو"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "257",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Nasr Al Nuba",
+        "Area_ar": "نصر النوبة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "258",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.866457,
+          23.961789
+        ]
+      },
+      "properties": {
+        "Area_en": "Kalabsha",
+        "Area_ar": "كلابشة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.874722,
+          24.980278
+        ]
+      },
+      "properties": {
+        "Area_en": "Edfu",
+        "Area_ar": "إدفو"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "260",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al-Radisiyah",
+        "Area_ar": "الرديسية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "261",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Basilia",
+        "Area_ar": "البصيلية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "262",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Sibaeia",
+        "Area_ar": "السباعية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "263",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Abo Simbl Al Siyahia",
+        "Area_ar": "أبو سمبل السياحية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "264",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.893817,
+          25.069992
+        ]
+      },
+      "properties": {
+        "Area_en": "Marsa Alam",
+        "Area_ar": "مرسى علم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "265",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.200612,
+          27.175858
+        ]
+      },
+      "properties": {
+        "Area_en": "Assiut",
+        "Area_ar": "أسيوط"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "266",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Assiut El Gedida",
+        "Area_ar": "أسيوط الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Dayrout",
+        "Area_ar": "ديروط"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.972204,
+          27.311431
+        ]
+      },
+      "properties": {
+        "Area_en": "Manfalut",
+        "Area_ar": "منفلوط"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.816164,
+          27.439022
+        ]
+      },
+      "properties": {
+        "Area_en": "Qusiya",
+        "Area_ar": "القوصية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "270",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.161565,
+          27.271431
+        ]
+      },
+      "properties": {
+        "Area_en": "Abnoub",
+        "Area_ar": "أبنوب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.319641,
+          27.043299
+        ]
+      },
+      "properties": {
+        "Area_en": "Abu Tig",
+        "Area_ar": "أبو تيج"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "272",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Ghanaim",
+        "Area_ar": "الغنايم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.34245,
+          27.0629
+        ]
+      },
+      "properties": {
+        "Area_en": "Sahel Selim",
+        "Area_ar": "ساحل سليم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "274",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Badari",
+        "Area_ar": "البداري"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "275",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379551,
+          26.965602
+        ]
+      },
+      "properties": {
+        "Area_en": "Sidfa",
+        "Area_ar": "صدفا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.854477,
+          28.838269
+        ]
+      },
+      "properties": {
+        "Area_en": "Bani Sweif",
+        "Area_ar": "بنى سويف"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Beni Suef El Gedida",
+        "Area_ar": "بنى سويف الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "278",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.222438,
+          27.176735
+        ]
+      },
+      "properties": {
+        "Area_en": "Al Wasta",
+        "Area_ar": "الواسطى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "279",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.707094,
+          26.558175
+        ]
+      },
+      "properties": {
+        "Area_en": "Naser",
+        "Area_ar": "ناصر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "280",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.944579,
+          29.08972
+        ]
+      },
+      "properties": {
+        "Area_en": "Ehnasia",
+        "Area_ar":"اهناسيا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "281",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.985374,
+          28.921418
+        ]
+      },
+      "properties": {
+        "Area_en": "beba",
+        "Area_ar": "ببا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "282",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.899543,
+          28.823257
+        ]
+      },
+      "properties": {
+        "Area_en": "Fashn",
+        "Area_ar": "الفشن"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Somasta",
+        "Area_ar": "سمسطا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "284",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Alabbaseri",
+        "Area_ar": "الاباصيرى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Mokbel",
+        "Area_ar": "مقبل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "PorSaid",
+        "Area_ar": "بورسعيد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "287",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.320071,
+          31.246623
+        ]
+      },
+      "properties": {
+        "Area_en": "Port Fouad",
+        "Area_ar": "بورفؤاد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.180548,
+          30.472022
+        ]
+      },
+      "properties": {
+        "Area_en": "Alarab",
+        "Area_ar": "العرب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.490416,
+          30.018731
+        ]
+      },
+      "properties": {
+        "Area_en": "Zohour",
+        "Area_ar": "حى الزهور"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.830486,
+          31.509052
+        ]
+      },
+      "properties": {
+        "Area_en": "Alsharq",
+        "Area_ar": "حى الشرق"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "291",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Aldawahi",
+        "Area_ar": "حى الضواحى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "292",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Almanakh",
+        "Area_ar": "حى المناخ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.246004,
+          30.061833
+        ]
+      },
+      "properties": {
+        "Area_en": "Mubarak",
+        "Area_ar": "حى مبارك"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.821366,
+          31.416743
+        ]
+      },
+      "properties": {
+        "Area_en": "Damietta",
+        "Area_ar": "دمياط"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.678142,
+          31.43645
+        ]
+      },
+      "properties": {
+        "Area_en": "New Damietta",
+        "Area_ar": "دمياط الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "296",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.845136,
+          31.526329
+        ]
+      },
+      "properties": {
+        "Area_en": "Ras El Bar",
+        "Area_ar": "رأس البر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "297",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.416147,
+          31.072361
+        ]
+      },
+      "properties": {
+        "Area_en": "Faraskour",
+        "Area_ar": "فارسكور"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "298",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.634534,
+          31.20678
+        ]
+      },
+      "properties": {
+        "Area_en": "Zarqa",
+        "Area_ar": "الزرقا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "299",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "alsaru",
+        "Area_ar": "السرور"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "300",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "alruwda",
+        "Area_ar": "الروضة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Kafr El-Batikh",
+        "Area_ar": "كفر البطيخ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "302",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Azbet Al Burg",
+        "Area_ar": "عزبة البرج"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Meet Abou Ghalib",
+        "Area_ar": "ميت أبو غالب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "304",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.195268,
+          30.487706
+        ]
+      },
+      "properties": {
+        "Area_en": "Kafr Saad",
+        "Area_ar": "كفر سعد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "305",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.503513,
+          30.585343
+        ]
+      },
+      "properties": {
+        "Area_en": "Zagazig",
+        "Area_ar": "الزقازيق"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "306",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Ashr Men Ramadan",
+        "Area_ar": "العاشر من رمضان"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "307",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.346538,
+          30.511927
+        ]
+      },
+      "properties": {
+        "Area_en": "Minya Al Qamh",
+        "Area_ar": "منيا القمح"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Belbeis",
+        "Area_ar": "بلبيس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Mashtoul El Souq",
+        "Area_ar": "مشتول السوق"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "310",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Qenaiat",
+        "Area_ar": "القنايات"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "311",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.676946,
+          30.535412
+        ]
+      },
+      "properties": {
+        "Area_en": "Abu Hammad",
+        "Area_ar": "أبو حماد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "312",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Qurain",
+        "Area_ar": "القرين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.338915,
+          30.10109
+        ]
+      },
+      "properties": {
+        "Area_en": "Hehia",
+        "Area_ar": "ههيا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "314",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.670845,
+          30.72517
+        ]
+      },
+      "properties": {
+        "Area_en": "Abu Kabir",
+        "Area_ar": "أبو كبير"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "315",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Faccus",
+        "Area_ar": "فاقوس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "316",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "El Salihia El Gedida",
+        "Area_ar": "الصالحية الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Ibrahimiyah",
+        "Area_ar": "الإبراهيمية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "318",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Deirb Negm",
+        "Area_ar": "ديرب نجم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.626114,
+          30.796388
+        ]
+      },
+      "properties": {
+        "Area_en": "Kafr Saqr",
+        "Area_ar": "كفر صقر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "320",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.460525,
+          30.058957
+        ]
+      },
+      "properties": {
+        "Area_en": "Awlad Saqr",
+        "Area_ar": "أولاد صقر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.898269,
+          30.899016
+        ]
+      },
+      "properties": {
+        "Area_en": "Husseiniya",
+        "Area_ar": "الحسينية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "san alhajar alqablia",
+        "Area_ar": "صان الحجر القبلية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Manshayat Abu Omar",
+        "Area_ar": "منشأة أبو عمر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "324",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Toor",
+        "Area_ar": "الطور"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "325",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Sharm El-Shaikh",
+        "Area_ar": "شرم الشيخ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "326",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.514565,
+          28.496363
+        ]
+      },
+      "properties": {
+        "Area_en": "Dahab",
+        "Area_ar": "دهب"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "327",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.661667,
+          29.035
+        ]
+      },
+      "properties": {
+        "Area_en": "Nuweiba",
+        "Area_ar": "نويبع"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.892366,
+          29.492821
+        ]
+      },
+      "properties": {
+        "Area_en": "Taba",
+        "Area_ar": "طابا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "329",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.953561,
+          28.567508
+        ]
+      },
+      "properties": {
+        "Area_en": "Saint Catherine",
+        "Area_ar": "سانت كاترين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "330",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Abu Redis",
+        "Area_ar": "أبو رديس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "331",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Abu Zenaima",
+        "Area_ar": "أبو زنيمة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "332",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.714691,
+          29.594739
+        ]
+      },
+      "properties": {
+        "Area_en": "Ras Sidr",
+        "Area_ar": "رأس سدر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "333",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.942698,
+          31.108939
+        ]
+      },
+      "properties": {
+        "Area_en": "Kafr El Sheikh",
+        "Area_ar": "كفر الشيخ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Kafr El Sheikh Downtown",
+        "Area_ar": "وسط البلد كفر الشيخ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.658456,
+          31.138204
+        ]
+      },
+      "properties": {
+        "Area_en": "Desouq",
+        "Area_ar": "دسوق"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "336",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Fooh",
+        "Area_ar": "فوه"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Metobas",
+        "Area_ar": "مطوبس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Burg Al Burullus",
+        "Area_ar": "برج البرلس"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.090278,
+          31.554444
+        ]
+      },
+      "properties": {
+        "Area_en": "Baltim",
+        "Area_ar": "بلطيم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Masief Baltim",
+        "Area_ar": " مصيف بلطيم "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "341",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.277753,
+          30.087302
+        ]
+      },
+      "properties": {
+        "Area_en": "Hamol",
+        "Area_ar": "الحامول"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "342",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Bella",
+        "Area_ar": "بيلا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "343",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.942543,
+          31.234808
+        ]
+      },
+      "properties": {
+        "Area_en": "Riyadh",
+        "Area_ar": "الرياض"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "344",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.787222,
+          31.271944
+        ]
+      },
+      "properties": {
+        "Area_en": "Sidi Salm",
+        "Area_ar": "سيدي سالم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "345",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Qellen",
+        "Area_ar": "قلين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.940938,
+          31.103274
+        ]
+      },
+      "properties": {
+        "Area_en": "Sidi Ghazi",
+        "Area_ar": "سيدي غازي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "347",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.239699,
+          31.356241
+        ]
+      },
+      "properties": {
+        "Area_en": "Marsa Matrouh",
+        "Area_ar": "مرسي مطروح"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.897699,
+          31.19369
+        ]
+      },
+      "properties": {
+        "Area_en": "El Hamam",
+        "Area_ar": "الحمام"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "349",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.949268,
+          30.833944
+        ]
+      },
+      "properties": {
+        "Area_en": "Alamein",
+        "Area_ar": "العلمين"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "350",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.495842,
+          31.0482
+        ]
+      },
+      "properties": {
+        "Area_en": "Dabaa",
+        "Area_ar": "الضبعة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "351",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al-Nagila",
+        "Area_ar": "النجيلة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Sidi Brani",
+        "Area_ar": "سيدي برانى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "353",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.159202,
+          31.560884
+        ]
+      },
+      "properties": {
+        "Area_en": "Salloum",
+        "Area_ar": "السلوم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.519227,
+          29.203466
+        ]
+      },
+      "properties": {
+        "Area_en": "Siwa",
+        "Area_ar": "سيوة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.848868,
+          27.243635
+        ]
+      },
+      "properties": {
+        "Area_en": "Marina",
+        "Area_ar": "مارينا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "356",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "North Coast",
+        "Area_ar": "الساحل الشمالي"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "357",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.647186,
+          25.702096
+        ]
+      },
+      "properties": {
+        "Area_en": "Luxor",
+        "Area_ar": "الأقصر"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "358",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.643537,
+          25.705597
+        ]
+      },
+      "properties": {
+        "Area_en": "New Luxor",
+        "Area_ar": "الأقصر الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "359",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.553199,
+          25.293669
+        ]
+      },
+      "properties": {
+        "Area_en": "Esna",
+        "Area_ar": "إسنا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "360",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "New Tiba",
+        "Area_ar": "طيبة الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "361",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al ziynia",
+        "Area_ar": "الزينية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Bayadieh",
+        "Area_ar": "البياضية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "363",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Qarna",
+        "Area_ar": "القرنة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "364",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.55,
+          25.616667
+        ]
+      },
+      "properties": {
+        "Area_en": "Armant",
+        "Area_ar": "أرمنت"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "365",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Al Tud",
+        "Area_ar": "الطود"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "366",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.129921,
+          26.010558
+        ]
+      },
+      "properties": {
+        "Area_en": "Qena",
+        "Area_ar": "قنا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "367",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.731422,
+          26.230822
+        ]
+      },
+      "properties": {
+        "Area_en": "New Qena",
+        "Area_ar": "قنا الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "368",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Abu Tesht",
+        "Area_ar": "ابو طشت"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.241634,
+          26.048991
+        ]
+      },
+      "properties": {
+        "Area_en": "Nag Hammadi",
+        "Area_ar": "نجع حمادى"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "370",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Deshna",
+        "Area_ar": "دشنا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "371",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.248941,
+          30.047567
+        ]
+      },
+      "properties": {
+        "Area_en": "Alwaqf",
+        "Area_ar": "الوقف"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "372",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Qaft",
+        "Area_ar": "قفط"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "373",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.724654,
+          25.902087
+        ]
+      },
+      "properties": {
+        "Area_en": "Naqada",
+        "Area_ar": "نقادة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "374",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.164901,
+          26.054234
+        ]
+      },
+      "properties": {
+        "Area_en": "Farshout",
+        "Area_ar": "فرشوط"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "375",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Quos",
+        "Area_ar": "قوص"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.785447,
+          31.109544
+        ]
+      },
+      "properties": {
+        "Area_en": "Arish",
+        "Area_ar": "العريش"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "377",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Sheikh Zowaid",
+        "Area_ar": "الشيخ زويد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "378",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.745987,
+          29.911454
+        ]
+      },
+      "properties": {
+        "Area_en": "Nakhl",
+        "Area_ar": "نخل"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "379",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.236342,
+          31.287706
+        ]
+      },
+      "properties": {
+        "Area_en": "Rafah",
+        "Area_ar": "رفح"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "380",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.007679,
+          31.003382
+        ]
+      },
+      "properties": {
+        "Area_en": "Bir al-Abed",
+        "Area_ar": "بئر العبد"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "381",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.403948,
+          26.898297
+        ]
+      },
+      "properties": {
+        "Area_en": "Al Hasana",
+        "Area_ar": "الحسنة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "382",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.090994,
+          26.762463
+        ]
+      },
+      "properties": {
+        "Area_en": "Sohag",
+        "Area_ar": "سوهاج"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "383",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Sohag El Gedida",
+        "Area_ar": "سوهاج الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "384",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Akhmeem",
+        "Area_ar": "أخميم"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Akhmim El Gedida",
+        "Area_ar": "أخميم الجديدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Albalina",
+        "Area_ar": "البلينا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6,
+          26.7
+        ]
+      },
+      "properties": {
+        "Area_en": "El Maragha",
+        "Area_ar": "المراغة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "388",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "almunsha'a",
+        "Area_ar": "المنشأة"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "389",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Dar AISalaam",
+        "Area_ar": "دار السلام"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.889107,
+          26.336407
+        ]
+      },
+      "properties": {
+        "Area_en": "Gerga",
+        "Area_ar": "جرجا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Jahina Al Gharbia",
+        "Area_ar": "جهينة الغربية"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "392",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Saqilatuh",
+        "Area_ar": "ساقلته"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.439098,
+          26.894992
+        ]
+      },
+      "properties": {
+        "Area_en": "Tama",
+        "Area_ar": "طما"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "394",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.495594,
+          26.767602
+        ]
+      },
+      "properties": {
+        "Area_en": "Tahta",
+        "Area_ar": "طهطا"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "395",
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "Area_en": "Alkawthar",
+        "Area_ar": "الكوثر"
+      }
+    }
+  ]
+}
