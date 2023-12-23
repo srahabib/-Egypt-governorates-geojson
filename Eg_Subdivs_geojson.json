@@ -1,0 +1,329 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Subdivision_en": "Alexandria",
+        "Subdivision_ar": "الإسكندرية"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.8951716, 31.1991806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Subdivision_en": "Aswan",
+        "Subdivision_ar": "أسوان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.897306, 24.091071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Subdivision_en": "Asyut",
+        "Subdivision_ar": "أسيوط"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.1853836, 27.1832822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Subdivision_en": "Beheira",
+        "Subdivision_ar": "البحيرة"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.346548847969675, 30.7915206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Subdivision_en": "Beni Suef",
+        "Subdivision_ar": "بني سويف"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.854476821535407, 28.83826875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Subdivision_en": "Cairo",
+        "Subdivision_ar": "القاهرة"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2357257, 30.0443879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "Subdivision_en": "Dakahlia",
+        "Subdivision_ar": "الدقهلية"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.88824986845627, 31.13800465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "Subdivision_en": "Damietta",
+        "Subdivision_ar": "دمياط"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.8213657, 31.4167427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "Subdivision_en": "Faiyum",
+        "Subdivision_ar": "الفيوم"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.620104467964623, 29.340736999999997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "Subdivision_en": "Gharbia",
+        "Subdivision_ar": "الغربية"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.9963429, 30.8393003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "Subdivision_en": "Giza",
+        "Subdivision_ar": "الجيزة"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2118063, 29.9870753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "Subdivision_en": "Ismailia",
+        "Subdivision_ar": "الاسماعيلية"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.2770825, 30.6043775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "Subdivision_en": "Kafr El Sheikh",
+        "Subdivision_ar": "كفر الشيخ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.9426981, 31.1089385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "Subdivision_en": "Luxor",
+        "Subdivision_ar": "الأقصر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.647186, 25.702096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "Subdivision_en": "Matrouh",
+        "Subdivision_ar": "مطروح"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.427040953366895, 29.7876385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "Subdivision_en": "Minya",
+        "Subdivision_ar": "المنيا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.912374098545786, 28.2125404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "Subdivision_en": "Monufia",
+        "Subdivision_ar": "المنوفية"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.746685163855833, 30.4370098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "Subdivision_en": "New Valley",
+        "Subdivision_ar": "الوادي الجديد"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.775734531760392, 24.8766665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "Subdivision_en": "North Sinai",
+        "Subdivision_ar": "شمال سيناء"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.59100602395213, 30.50428025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "Subdivision_en": "Port Said",
+        "Subdivision_ar": "بورسعيد"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.305505, 31.263235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "Subdivision_en": "Qalyubia",
+        "Subdivision_ar": "القليوبية"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.22135686416373, 30.33362925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "Subdivision_en": "Qena",
+        "Subdivision_ar": "قنا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.12992108817383, 26.01055795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "Subdivision_en": "Red Sea",
+        "Subdivision_ar": "البحر الاحمر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.16946410259507, 25.5867279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "Subdivision_en": "Sharqia",
+        "Subdivision_ar": "الشرقية"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.789373917991302, 30.63327745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "Subdivision_en": "Sohag",
+        "Subdivision_ar": "سوهاج"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.090993613434186, 26.76246285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "Subdivision_en": "South Sinai",
+        "Subdivision_ar": "جنوب سيناء"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.87113129565117, 28.64495635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "Subdivision_en": "Suez",
+        "Subdivision_ar": "السويس"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.537086, 29.974498]
+      }
+    }
+  ]
+}
